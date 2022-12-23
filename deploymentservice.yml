@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: bharath5565/project11:latest
+        image: bharath5565/jenkins-pipeline:latest
         ports:
         - containerPort: 3000
         
