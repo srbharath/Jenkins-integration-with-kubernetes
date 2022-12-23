@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    dockerimagename = "bharath5565/project11"
+    dockerimagename = "bharath5565/jenkins-pipeline"
     dockerImage = ""
   }
 
