@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: bharath5565/stockmanager
+        image: bharath5565/stockmanager:latest
         ports:
         - containerPort: 3000
         
