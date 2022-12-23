@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: bharath5565/jenkins-pipeline:latest
+        image: bharath5565/stockmanager
         ports:
         - containerPort: 3000
         
